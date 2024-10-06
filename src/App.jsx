@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar"
 import NewsBoard from "./components/NewsBoard"
+
 import { useState } from "react";
 
 const App = () => {
